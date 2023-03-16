@@ -1,0 +1,63 @@
+version: '3.4'
+
+services:
+  catalogdb:
+    image: mongo
+
+  checkoutdb:
+    image: redis:alpine
+    
+  identitydb:
+    image: postgres
+
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+  
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+
+  pgadmin:
+    image: dpage/pgadmin4
+
+  portainer:
+    image: portainer/portainer-ce
+
+
+  catalogservice:
+    image: ${DOCKER_REGISTRY-}catalogservice
+    build:
+      context: .
+      dockerfile: Services/CatalogService/CatalogService/Dockerfile
+
+  cartservice:
+    image: ${DOCKER_REGISTRY-}cartservice
+    build:
+      context: .
+      dockerfile:  Services/CartService/CartService/Dockerfile
+
+
+  orderservice:
+    image: ${DOCKER_REGISTRY-}orderservice
+    build:
+      context: .
+      dockerfile: Services/OrderService/OrderService/Dockerfile
+
+
+  loginService:
+    image: ${DOCKER_REGISTRY-}loginService
+    build:
+      context: .
+      dockerfile: Services/LoginService/LoginService/Dockerfile
+
+
+  ocelotapigateway:
+    image: ${DOCKER_REGISTRY-}ocelotapigateway
+    build:
+      context: .
+      dockerfile: ApiGateways/OcelotApiGateway/Dockerfile
+
+volumes:
+  mongo_data:
+  portainer_data:
+  postgres_data:
+  pgadmin_data:

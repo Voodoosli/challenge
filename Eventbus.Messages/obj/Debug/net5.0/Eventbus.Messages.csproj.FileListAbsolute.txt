@@ -1,0 +1,12 @@
+D:\kisisel\Challenge\Eventbus.Messages\bin\Debug\net5.0\Eventbus.Messages.deps.json
+D:\kisisel\Challenge\Eventbus.Messages\bin\Debug\net5.0\Eventbus.Messages.dll
+D:\kisisel\Challenge\Eventbus.Messages\bin\Debug\net5.0\Eventbus.Messages.pdb
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.csproj.AssemblyReference.cache
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.AssemblyInfoInputs.cache
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.AssemblyInfo.cs
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.csproj.CoreCompileInputs.cache
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.dll
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\refint\Eventbus.Messages.dll
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\Eventbus.Messages.pdb
+D:\kisisel\Challenge\Eventbus.Messages\obj\Debug\net5.0\ref\Eventbus.Messages.dll

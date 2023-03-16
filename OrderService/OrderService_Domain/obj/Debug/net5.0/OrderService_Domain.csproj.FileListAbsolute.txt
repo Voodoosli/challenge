@@ -1,0 +1,12 @@
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.csproj.AssemblyReference.cache
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.AssemblyInfoInputs.cache
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.AssemblyInfo.cs
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.csproj.CoreCompileInputs.cache
+D:\kisisel\Challenge\OrderService\OrderService_Domain\bin\Debug\net5.0\OrderService_Domain.deps.json
+D:\kisisel\Challenge\OrderService\OrderService_Domain\bin\Debug\net5.0\OrderService_Domain.dll
+D:\kisisel\Challenge\OrderService\OrderService_Domain\bin\Debug\net5.0\OrderService_Domain.pdb
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.dll
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\refint\OrderService_Domain.dll
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\OrderService_Domain.pdb
+D:\kisisel\Challenge\OrderService\OrderService_Domain\obj\Debug\net5.0\ref\OrderService_Domain.dll
